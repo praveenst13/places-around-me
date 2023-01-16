@@ -46,6 +46,6 @@ HTML code:
 
 
 # Output:
-
+![image](sss.png)
 # Result:
  The program for implementing image map is executed successfully.
