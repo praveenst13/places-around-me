@@ -209,5 +209,10 @@ postoffice.html
 
 # Output:
 ![image](sss.png)
+![eig](apollo.png)
+![eig](ayn.png)
+![eig](mdr.png)
+![eig](postoffice.png)
+![eig](sbi.png)
 # Result:
  The program for implementing image map is executed successfully.
