@@ -208,7 +208,7 @@ postoffice.html
 
 
 # Output:
-![img](Screenshot (62).png)
+![img](ss.png)
 ![image](sss.png)
 ![eig](apollo.png)
 ![eig](ayn.png)
