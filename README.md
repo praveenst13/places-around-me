@@ -13,7 +13,7 @@ Write the html code .
 Run the Django server and execute the HTML files..
 
 # Code:
-home.html
+mycity.html
 ```
 
 <!DOCTYPE html>
